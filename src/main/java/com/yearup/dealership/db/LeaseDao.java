@@ -36,7 +36,7 @@ public class LeaseDao {
             }
         } catch (SQLException e) {
             e.printStackTrace();
-            
+
         }
 
     }
